@@ -21,6 +21,7 @@
  - Moonloader 0.26 + [(загрузить)](https://blast.hk/moonloader)
  - Dear IMGUI [(загрузить)](https://blast.hk/threads/19292/)
  - SAMP.lua [(загрузить)](https://blast.hk/threads/14624/)
+ 
  Скачать все компоненты и сам скрипт в одном архиве можно по [этой ссылке](URLHERE).
  Скачать скрипт отдельно - по [этой ссылке](URLHERE).
  
