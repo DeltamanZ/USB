@@ -1,10 +1,2 @@
-Arthur_Ketch
-Raffaele_Tornero
-Auame_Hydra
-Antonio_Garsia
-Yana_Tyanytova
-Frank_Stoltz
 Alexey_Kumov
-Paul_Hausser
-Adrian_Rein
-Vladislav_Turkov
+Nikolay_Fedorov
